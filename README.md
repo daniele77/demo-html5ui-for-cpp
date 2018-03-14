@@ -6,7 +6,9 @@ adding a html5 GUI to a C++ application.
 The repository contains 2 main directories:
 * src_low_level_proto: a sample with a websocket protocol based on UI events and commands
 * src_high_level_proto: a sample with a websocket protocol based on domain model events and commands 
-You should download the release to get the two demo compiled samples:
+
+You should also download the binary from the github release to get the two demo compiled samples:
+
 * demo_1: the compiled sample
 * demo_2: the compiled sample packed with a shell script to start the application
 
